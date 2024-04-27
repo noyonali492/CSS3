@@ -1,5 +1,4 @@
 body{
-    background-image: url('../asset/bg.jpg');
-    background-repeat: no-repeat;
-    width: auto;
+   background: #000 url('../asset/bg.jpg') no-repeat top center / 650px 430px
+
 }
