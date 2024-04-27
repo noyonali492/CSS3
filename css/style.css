@@ -1,3 +1,5 @@
 body{
-    background-color: red;
+    background-image: url('../asset/bg.jpg');
+    background-repeat: no-repeat;
+    width: auto;
 }
